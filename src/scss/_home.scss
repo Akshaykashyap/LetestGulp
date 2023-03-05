@@ -1,0 +1,16 @@
+.main-container {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background: #ccc;
+    .wrappe-section {
+        padding: 1.5rem;
+        background: rebeccapurple;
+        opacity: .5;
+    }
+    .heading-first {
+        text-align: center;
+        padding: 2rem;
+        border: 2px dotted burlywood;
+    }
+}
